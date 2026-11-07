@@ -1,0 +1,4 @@
+# Preserve legacy source encodings and line endings.
+* -text
+*.lib binary
+*.a binary

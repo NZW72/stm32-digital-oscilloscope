@@ -1,0 +1,8 @@
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+*.bak
+.codebase-memory/
+.env
+*.log
